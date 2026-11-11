@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartStock Manager</string>
+    <string name="app_subtitle">Hệ thống quản lý tồn kho nội bộ</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">ĐĂNG NHẬP TÀI KHOẢN</string>
+    <string name="username_label">Tên đăng nhập</string>
+    <string name="username_hint">Nhập username (vd: admin)</string>
+    <string name="password_label">Mật khẩu</string>
+    <string name="password_hint">••••••••</string>
+    <string name="login_button">ĐĂNG NHẬP HỆ THỐNG →</string>
+    <string name="login_error_empty">Vui lòng nhập đầy đủ tên đăng nhập và mật khẩu</string>
+    <string name="login_error_invalid">! Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="login_sqlite_hint">Tài khoản mặc định SQLite: admin / 123456</string>
+
+    <!-- Main Screen -->
+    <string name="main_header_title">Tổng quan kho hàng</string>
+    <string name="stat_items_label">Mặt hàng</string>
+    <string name="stat_total_value_label">Tổng giá trị kho</string>
+    <string name="stat_low_stock_label">Sắp hết (&lt;5)</string>
+    <string name="dashboard_subtitle">CHỈ SỐ TỒN KHO THỜI GIAN THỰC</string>
+    <string name="list_section_title">DANH MỤC SẢN PHẨM TRONG KHO</string>
+    <string name="list_tap_hint">Chạm vào từng thẻ sản phẩm để xem &amp; điều chỉnh tồn kho</string>
+    <string name="add_product_button">+ THÊM SẢN PHẨM MỚI</string>
+    <string name="empty_list_msg">Chưa có sản phẩm nào trong kho hàng</string>
+
+    <!-- Add Product Screen -->
+    <string name="add_header_title">Thêm sản phẩm mới</string>
+    <string name="product_name_label">Tên sản phẩm *</string>
+    <string name="product_name_hint">VD: Tai nghe Bluetooth Sony</string>
+    <string name="product_price_label">Giá bán (VNĐ) *</string>
+    <string name="product_price_hint">VD: 250000</string>
+    <string name="product_quantity_label">Số lượng tồn *</string>
+    <string name="product_quantity_hint">VD: 10</string>
+    <string name="category_label">Phân loại danh mục</string>
+    <string name="status_switch_label">Trạng thái đang kinh doanh</string>
+    <string name="description_label">Ghi chú / Mô tả chi tiết</string>
+    <string name="description_hint">Nhập thông số, bảo hành, nhà cung cấp...</string>
+    <string name="save_product_button">LƯU VÀO KHO HÀNG</string>
+
+    <!-- Product Detail Screen -->
+    <string name="detail_header_title">Chi tiết sản phẩm</string>
+    <string name="status_active">● Đang kinh doanh</string>
+    <string name="status_inactive">● Ngừng kinh doanh</string>
+    <string name="price_listed_label">Đơn giá niêm yết:</string>
+    <string name="metric_quantity_title">TỒN KHO HIỆN TẠI</string>
+    <string name="metric_low_stock_warning">Sắp hết!</string>
+    <string name="metric_inventory_value_title">GIÁ TRỊ TỒN KHO</string>
+    <string name="description_title">Mô tả sản phẩm</string>
+    <string name="no_description">Không có mô tả chi tiết cho sản phẩm này.</string>
+    <string name="quick_adjust_title">ĐIỀU CHỈNH NHANH SỐ LƯỢNG</string>
+    <string name="btn_import_one">+ Nhập thêm 1</string>
+    <string name="btn_sell_one">- Xuất bán 1</string>
+    <string name="btn_back_list">← Quay lại danh sách</string>
+    <string name="btn_delete_product">✕ Xóa sản phẩm khỏi kho</string>
+    <string name="delete_confirm_title">Xác nhận xóa</string>
+    <string name="delete_confirm_msg">Bạn có chắc chắn muốn xóa sản phẩm này khỏi cơ sở dữ liệu?</string>
+    <string name="out_of_stock_toast">Hết hàng</string>
+    <string name="delete_success_toast">Đã xóa sản phẩm thành công</string>
+    <string name="add_success_toast">Đã thêm sản phẩm mới vào kho</string>
+</resources>

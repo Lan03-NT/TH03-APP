@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="primary_dark">#1E1B4B</color>
+    <color name="primary_header">#312E81</color>
+    <color name="primary_accent">#4F46E5</color>
+    <color name="primary_light">#EEF2FF</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_app">#F1F5F9</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="border_color">#E2E8F0</color>
+    <color name="input_bg">#F8FAFC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Category Pill -->
+    <color name="category_text">#4338CA</color>
+    <color name="category_bg">#EEF2FF</color>
+
+    <!-- Danger / Low Stock Warning -->
+    <color name="danger_text">#E11D48</color>
+    <color name="danger_bg">#FFE4E6</color>
+    <color name="danger_border">#FECDD3</color>
+    <color name="danger_subtle_bg">#FFF1F2</color>
+
+    <!-- Info / Stats Colors -->
+    <color name="stat_value_blue">#38BDF8</color>
+    <color name="stat_value_pink">#FB7185</color>
+    <color name="info_bg">#F0F9FF</color>
+    <color name="info_border">#BAE6FD</color>
+
+    <!-- Status Colors -->
+    <color name="status_active_text">#15803D</color>
+    <color name="status_active_bg">#DCFCE7</color>
+    <color name="status_inactive_text">#475569</color>
+    <color name="status_inactive_bg">#E2E8F0</color>
+
+    <!-- Action Buttons -->
+    <color name="btn_teal">#0D9488</color>
+    <color name="btn_amber">#D97706</color>
+
+    <!-- Error Box -->
+    <color name="error_bg">#FEF2F2</color>
+    <color name="error_text">#DC2626</color>
+    <color name="error_border">#FCA5A5</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
